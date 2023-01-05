@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="167179f4-d671-41c0-8f45-4aabd19e35b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingleResponsabilityExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Finance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HRPromotions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Finance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Finance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HRPromotions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HRPromotions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672917768283</updated>
-      <workItem from="1672917769731" duration="402000" />
+      <workItem from="1672917769731" duration="575000" />
     </task>
+    <task id="LOCAL-00001" summary="I have created an example of distributed responsabilities &#10;First time income calc tax and promote responsability was in Emploeyee class but throug creating new 2 classess I passed the responsaBILTY to them">
+      <created>1672918319036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672918319036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I have created an example of distributed responsabilities &#10;First time income calc tax and promote responsability was in Emploeyee class but throug creating new 2 classess I passed the responsaBILTY to them" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have created an example of distributed responsabilities &#10;First time income calc tax and promote responsability was in Emploeyee class but throug creating new 2 classess I passed the responsaBILTY to them" />
   </component>
 </project>
